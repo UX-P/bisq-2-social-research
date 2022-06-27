@@ -6,4 +6,4 @@
 
 [Bisq Easy Design Considerations](https://docs.google.com/document/d/1eqyl0q5glxoP2ywaQv7iZ2lvFZ5bsK9NhJrccJF-6Vs/edit?usp=sharing)
 
-[Heuristic report](bisq2 ux heuristics table.xlsx)
+[Heuristic report](bisq2%20ux%20heuristics%20table.xlsx)
